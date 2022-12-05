@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-[[experience]]
+experience:
   - title: Research Assistant
     company: DigiVox
     company_url: 'https://www.digivox.uzh.ch/de.html'
@@ -36,8 +36,6 @@ date_format: Jan 2006
         * Survey Design & Supervision
         * Data Wrangling
 
-        
-[[experience]]        
   - title: Research Assistant
     company: Mannheim Center for European Social Research
     company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/the-populist-challenge-in-parliament'
@@ -53,8 +51,6 @@ date_format: Jan 2006
         * Administration and Supervision of an own Database
         * Data manipulation        
 
-        
-[[experience]]        
   - title: Research Assistant
     company: Mannheim Center for European Social Research
     company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/experiences-of-everyday-racism-and-media-mediated-racism-in-the-political-public-sphere'
