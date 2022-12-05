@@ -35,6 +35,7 @@ experience:
         
         * Survey Design & Supervision
         * Data Wrangling
+        """ 
         
 experience:        
   - title: Research Assistant
@@ -51,6 +52,7 @@ experience:
         * Responsible for webscraping the different state parliament databases
         * Administration and Supervision of an own Database
         * Data manipulation        
+        """
         
 experience:        
   - title: Research Assistant
@@ -67,7 +69,5 @@ experience:
         * Helping in designing a Coding scheme for Tweets
         * Helping in developing a semi supervised topic model by building up a dictionary
         * Handcoding of Tweets
-
-design:
-  columns: '2'
+        """
 ---
