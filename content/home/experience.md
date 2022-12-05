@@ -23,6 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+- title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
   - title: Research Assistant
     company: DigiVox
     company_url: 'https://www.digivox.uzh.ch/de.html'
@@ -33,37 +39,19 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Analysing
+        * Modelling
+        * Deploying
         * Survey Design & Supervision
         * Data Wrangling
-  - title: Research Assistant
-    company: Mannheim Center for European Social Research
-    company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/the-populist-challenge-in-parliament'
-    company_logo:
-    location: Mannheim
-    date_start: '2021-04-01'
-    date_end: '2022-06-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Part of the Research Project "The Populist Challenge in Parliament"
-        * Responsible for webscraping the different state parliament databases
-        * Administration and Supervision of an own Database
-        * Data manipulation        
-  - title: Research Assistant
-    company: Mannheim Center for European Social Research
-    company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/experiences-of-everyday-racism-and-media-mediated-racism-in-the-political-public-sphere'
-    company_logo:
-    location: Mannheim
-    date_start: '2020-11-01'
-    date_end: '2021-01-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Part of the Research Project "Experiences of Everyday Racism and Media-Mediated Racism in the (Political) Public Sphere"
-        * Helping in designing a Coding scheme for Tweets
-        * Helping in developing a semi supervised topic model by building up a dictionary
-        * Handcoding of Tweets
-
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 design:
-  columns: '3'
+  columns: '2'
 ---
