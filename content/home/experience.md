@@ -35,7 +35,6 @@ experience:
         
         * Survey Design & Supervision
         * Data Wrangling
-
   - title: Research Assistant
     company: Mannheim Center for European Social Research
     company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/the-populist-challenge-in-parliament'
@@ -50,7 +49,6 @@ experience:
         * Responsible for webscraping the different state parliament databases
         * Administration and Supervision of an own Database
         * Data manipulation        
-
   - title: Research Assistant
     company: Mannheim Center for European Social Research
     company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/experiences-of-everyday-racism-and-media-mediated-racism-in-the-political-public-sphere'
