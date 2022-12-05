@@ -24,6 +24,10 @@ feature:
     icon: database
     icon_pack: fas
     name: SQL
+  - description: 40% Basics
+    icon: square-poll-vertical
+    icon_pack: fas
+    name: Qualtrics
   - description: 10% Basics
     icon: linux
     icon_pack: fab
