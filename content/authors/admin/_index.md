@@ -69,8 +69,10 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! My name is Dylan and I am currently a Masters Student at the University of Zurich in Switzerland. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests encompass political online behavior of general citizens as well as political elites. How do these individuals behave on social media platforms and how do they present themselves? What kind of information and content polarizes people? To understand these questions I study web-tracking data of citizens and everything political elites put online.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My masters thesis is about how citizens perceive their own news media consumption online in comparison to the actual bias they encounter.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
