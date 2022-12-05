@@ -50,6 +50,10 @@ social:
     label: Follow me on Twitter
     display:
       header: true
+  - icon: mastodon
+    icon_pack: fab
+    link: https://mastodon.social/@dpltr22
+    label: Follow me on Mastodon
   - icon: github
     icon_pack: fab
     link: https://github.com/dpltr22
