@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-experience:
+[[experience]]
   - title: Research Assistant
     company: DigiVox
     company_url: 'https://www.digivox.uzh.ch/de.html'
@@ -35,9 +35,9 @@ experience:
         
         * Survey Design & Supervision
         * Data Wrangling
-        """ 
+
         
-experience:        
+[[experience]]        
   - title: Research Assistant
     company: Mannheim Center for European Social Research
     company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/the-populist-challenge-in-parliament'
@@ -52,12 +52,12 @@ experience:
         * Responsible for webscraping the different state parliament databases
         * Administration and Supervision of an own Database
         * Data manipulation        
-        """
+
         
-experience:        
+[[experience]]        
   - title: Research Assistant
     company: Mannheim Center for European Social Research
-    company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/experiences-of-everyday-racism-and-m     edia-mediated-racism-in-the-political-public-sphere'
+    company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/experiences-of-everyday-racism-and-media-mediated-racism-in-the-political-public-sphere'
     company_logo:
     location: Mannheim
     date_start: '2020-11-01'
@@ -69,5 +69,5 @@ experience:
         * Helping in designing a Coding scheme for Tweets
         * Helping in developing a semi supervised topic model by building up a dictionary
         * Handcoding of Tweets
-        """
+
 ---
