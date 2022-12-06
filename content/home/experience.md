@@ -37,13 +37,13 @@ experience:
         * Deploying
         * Survey Design & Supervision
         * Data Wrangling
-  - title: Professor
-    company: UZH
+  - title: Student Assistant
+    company: MZES
     company_url: ''
     company_logo: ''
-    location: Zurich
-    date_start: '2022-12-06'
-    date_end: ''
+    location: Mannheim
+    date_start: '2020-04-01'
+    date_end: '2021-06-31'
     description: |2-
         Responsibilities include:
         * Teaching
