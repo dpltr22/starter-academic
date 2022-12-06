@@ -48,5 +48,5 @@ experience:
         Responsibilities include:
         * Teaching
 design:
-  columns: '2'
+  columns: '3'
 ---
