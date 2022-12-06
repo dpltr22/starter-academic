@@ -32,7 +32,6 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Analyzing
         * Modelling
         * Deploying
