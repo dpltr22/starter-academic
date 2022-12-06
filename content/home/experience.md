@@ -37,13 +37,13 @@ experience:
         * Deploying
         * Survey Design & Supervision
         * Data Wrangling
-  - title: Student Assistant
+  - title: Professor
     company: MZES
     company_url: ''
     company_logo: ''
     location: Mannheim
     date_start: '2020-04-01'
-    date_end: '2021-06-31'
+    date_end: '2020-06-31'
     description: |2-
         Responsibilities include:
         * Teaching
