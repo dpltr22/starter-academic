@@ -24,16 +24,15 @@ date_format: Jan 2006
 
 experience:
   - title: Research Assistant
-company: DigiVox
-company_url: ''
-company_logo:
-  location: Zurich
-date_start: '2022-02-01'
-date_end: ''
-description: |2-
-  Responsibilities include:
-
-  * Survey Design & Supervision
-  * Data Wrangling
+    company: DigiVox
+    company_url: ''
+    company_logo:
+    location: Zurich
+    date_start: '2022-02-01'
+    date_end: ''
+    description: |2-
+    Responsibilities include:
+    * Survey Design and Supervision
+    * Data Wrangling
 
 ---
