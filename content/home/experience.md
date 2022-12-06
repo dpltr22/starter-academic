@@ -26,7 +26,7 @@ experience:
   - title: Research Assistant
     company: DigiVox
     company_url: 'https://www.digivox.uzh.ch/de.html'
-    company_logo:
+    company_logo: ''
     location: Zurich
     date_start: '2022-02-01'
     date_end: ''
@@ -42,7 +42,7 @@ experience:
   - title: Student Research Assistant
     company: MZES
     company_url: ''
-    company_logo: 
+    company_logo: ''
     location: Mannheim
     date_start: '2020-04-01'
     date_end: '2021-06-31'
