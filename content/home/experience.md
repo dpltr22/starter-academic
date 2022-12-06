@@ -38,7 +38,7 @@ experience:
         * Survey Design & Supervision
         * Data Wrangling
   - title: Research Assistant
-    company: MZES
+    company: Mannheim Center for European Social Research
     company_url: ''
     company_logo: ''
     location: Mannheim
@@ -46,11 +46,10 @@ experience:
     date_end: '2021-07-01'
     description: |2-
         Responsibilities include:
-        * Analyzing
-        * Modelling
-        * Deploying
-        * Survey Design & Supervision
-        * Data Wrangling        
+        * Part of the Research Project "The Populist Challenge in Parliament"
+        * Responsible for webscraping the different state parliament databases
+        * Administration and Supervision of an own Database
+        * Data manipulation  
 design:
   columns: '3'
 ---
