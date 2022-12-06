@@ -1,11 +1,11 @@
 ---
-title: "An example journal article"
+title: "Manuscript Title	The Use of Tweets in Political News Coverage In- and Outside Election Campaigns: Examining Effects on Deliberative News Media Quality"
 authors:
+- Corinna Oschatz
+- Teresa Gil-Lopez
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Sebastian Stier
+- Tanjev Schultz
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
