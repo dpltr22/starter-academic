@@ -53,7 +53,7 @@ experience:
 - title: Research Assistant
   company: Mannheim Center for European Social Research
   company_url: ''
-  company_logo:
+  company_logo: ''
   location: Mannheim
   date_start: '2020-11-01'
   date_end: '2021-02-01'
