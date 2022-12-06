@@ -42,7 +42,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: Mannheim
-    date_start: '2022-02-01'
+    date_start: '2020-04-01'
     date_end: ''
     description: |2-
         Responsibilities include:
