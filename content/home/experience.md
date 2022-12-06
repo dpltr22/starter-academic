@@ -38,7 +38,6 @@ experience:
         * Deploying
         * Survey Design & Supervision
         * Data Wrangling
-experience:        
   - title: Student Research Assistant
     company: MZES
     company_url: ''
@@ -46,8 +45,7 @@ experience:
     location: Mannheim
     date_start: '2020-04-01'
     date_end: '2021-06-31'
-    description: Taught electronic engineering and researched semiconductor physics.      
-
+    description: Taught electronic engineering and researched semiconductor physics.
 design:
   columns: '2'
 ---
