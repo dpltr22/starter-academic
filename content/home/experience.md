@@ -37,20 +37,16 @@ experience:
         * Deploying
         * Survey Design & Supervision
         * Data Wrangling
-  - title: Research Assistant
-    company: DigiVox
-    company_url: 'https://www.digivox.uzh.ch/de.html'
+  - title: Professor
+    company: UZH
+    company_url: ''
     company_logo: ''
     location: Zurich
-    date_start: '2022-02-01'
+    date_start: '2022-12-06'
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Analyzing
-        * Modelling
-        * Deploying
-        * Survey Design & Supervision
-        * Data Wrangling
+        * Teaching
 design:
   columns: '2'
 ---
