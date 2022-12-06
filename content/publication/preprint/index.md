@@ -2,6 +2,8 @@
 title: "Affective States - Cultural and Affective Polarization in a Multilevel-Multiparty System"
 authors: 
   - admin
+  - Marius Sältzer
+  - Christian Stecker
 date: "2022-12-01T00:00:00Z"
 doi: ""
 
