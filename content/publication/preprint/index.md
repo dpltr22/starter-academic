@@ -1,6 +1,7 @@
 ---
 title: "Affective States - Cultural and Affective Polarization in a Multilevel-Multiparty System"
-authors: "Dylan Paltra"
+authors: ""
+  - admin
 date: "2022-12-01"
 doi: ""
 
