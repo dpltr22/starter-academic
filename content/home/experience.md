@@ -50,19 +50,19 @@ experience:
         * Responsible for webscraping the different state parliament databases
         * Administration and Supervision of an own Database
         * Data manipulation
-- title: Research Assistant
-  company: Mannheim Center for European Social Research
-  company_url: ''
-  company_logo: ''
-  location: Mannheim
-  date_start: '2020-11-01'
-  date_end: '2021-02-01'
-  description: |2-
-  Responsibilities include:
-  * Part of the Research Project "Experiences of Everyday Racism and Media-Mediated Racism in the (Political) Public Sphere"
-  * Helping in designing a Coding scheme for Tweets
-  * Helping in developing a semi supervised topic model by building up a dictionary
-  * Handcoding of Tweets        
+  - title: Research Assistant
+    company: Mannheim Center for European Social Research
+    company_url: ''
+    company_logo: ''
+    location: Mannheim
+    date_start: '2020-11-01'
+    date_end: '2021-02-01'
+    description: |2-
+        Responsibilities include:
+        * Part of the Research Project "Experiences of Everyday Racism and Media-Mediated Racism in the (Political) Public Sphere"
+        * Helping in designing a Coding scheme for Tweets
+        * Helping in developing a semi supervised topic model by building up a dictionary
+        * Handcoding of Tweets        
 design:
   columns: '4'
 ---
