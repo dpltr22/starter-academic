@@ -43,7 +43,7 @@ experience:
     company_logo: ''
     location: Mannheim
     date_start: '2020-04-01'
-    date_end: ''
+    date_end: '2021-07-01'
     description: |2-
         Responsibilities include:
         * Analyzing
