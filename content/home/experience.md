@@ -38,6 +38,7 @@ experience:
         * Deploying
         * Survey Design & Supervision
         * Data Wrangling
+experience:        
   - title: Student Research Assistant
     company: MZES
     company_url: ''
