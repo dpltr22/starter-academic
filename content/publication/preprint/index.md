@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: ""
 
 # Summary.
 
