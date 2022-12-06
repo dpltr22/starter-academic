@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: 'Research Assistant'
-    company: 'DigiVox'
+  - title: Research Assistant
+    company: DigiVox
     company_url: 'https://www.digivox.uzh.ch/de.html'
     company_logo: ''
-    location: 'Zurich'
+    location: Zurich
     date_start: '2022-02-01'
     date_end: ''
     description: |2-
@@ -37,16 +37,6 @@ experience:
         * Deploying
         * Survey Design & Supervision
         * Data Wrangling
-  - title: 'Professor'
-    company: 'MZES'
-    company_url: ''
-    company_logo: ''
-    location: 'Mannheim'
-    date_start: '2020-04-01'
-    date_end: '2020-06-31'
-    description: |2-
-        Responsibilities include:
-        * Teaching
 design:
   columns: '3'
 ---
