@@ -46,7 +46,7 @@ social:
     link: 'mailto:paltra.dylan@gmx.de'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/dpltr22github
+    link: https://twitter.com/dpltr22
     label: Follow me on Twitter
     display:
       header: true
