@@ -1,6 +1,6 @@
 ---
 title: "Affective States - Cultural and Affective Polarization in a Multilevel-Multiparty System"
-authors: ""
+authors: 
   - admin
 date: "2022-12-01T00:00:00Z"
 doi: ""
