@@ -38,10 +38,10 @@ experience:
         * Survey Design & Supervision
         * Data Wrangling
   - title: Research Assistant
-    company: DigiVox
-    company_url: 'https://www.digivox.uzh.ch/de.html'
+    company: MZES
+    company_url: ''
     company_logo: ''
-    location: Zurich
+    location: Mannheim
     date_start: '2022-02-01'
     date_end: ''
     description: |2-
