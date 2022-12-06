@@ -52,11 +52,11 @@ experience:
         * Data manipulation
 - title: Research Assistant
   company: Mannheim Center for European Social Research
-  company_url: 'https://www.mzes.uni-mannheim.de/d7/en/projects/experiences-of-everyday-racism-and-media-mediated-racism-in-the-political-public-sphere'
+  company_url: ''
   company_logo:
   location: Mannheim
   date_start: '2020-11-01'
-  date_end: '2021-01-31'
+  date_end: '2021-02-01'
   description: |2-
   Responsibilities include:
   * Part of the Research Project "Experiences of Everyday Racism and Media-Mediated Racism in the (Political) Public Sphere"
