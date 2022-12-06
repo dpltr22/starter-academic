@@ -38,13 +38,13 @@ experience:
         * Deploying
         * Survey Design & Supervision
         * Data Wrangling
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: MZES
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    company_logo: 
+    location: Mannheim
+    date_start: '2020-04-01'
+    date_end: '2021-06-31'
     description: Taught electronic engineering and researched semiconductor physics.      
 
 design:
