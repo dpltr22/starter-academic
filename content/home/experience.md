@@ -22,4 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
+experience:
+  - title: Research Assistant
+company: DigiVox
+company_url: 'https://www.digivox.uzh.ch/de.html'
+company_logo:
+  location: Zurich
+date_start: '2022-02-01'
+date_end: ''
+description: |2-
+  Responsibilities include:
+
+  * Survey Design & Supervision
+  * Data Wrangling
+
 ---
