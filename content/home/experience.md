@@ -38,6 +38,12 @@ experience:
         * Deploying
         * Survey Design & Supervision
         * Data Wrangling
+
+experience:
+  -title: Research Assistant
+   company: MZES
+   date_start: '2020-04-1'
+   date_end: '2022-06-31'
     
 design:
   columns: '2'
