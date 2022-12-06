@@ -64,5 +64,5 @@ experience:
   * Helping in developing a semi supervised topic model by building up a dictionary
   * Handcoding of Tweets        
 design:
-  columns: '3'
+  columns: '4'
 ---
