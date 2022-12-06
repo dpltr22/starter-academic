@@ -25,7 +25,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
 company: DigiVox
-company_url: 'https://www.digivox.uzh.ch/de.html'
+company_url: ''
 company_logo:
   location: Zurich
 date_start: '2022-02-01'
