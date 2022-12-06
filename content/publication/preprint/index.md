@@ -2,11 +2,11 @@
 title: "Affective States - Cultural and Affective Polarization in a Multilevel-Multiparty System"
 authors: ""
   - admin
-date: "2022-12-01"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-01"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,6 @@ tags:
 featured: false
 
 links:
-url: ""
 url_pdf: ""
 url_code: ''
 url_dataset: ''
