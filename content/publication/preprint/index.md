@@ -67,8 +67,8 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
----
-title: "ARule of Images"
+
+title: "Rule of Images"
 authors: 
   - admin
 date: "2022-12-01T00:00:00Z"
