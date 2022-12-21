@@ -68,11 +68,9 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
 ---
-title: "Affective States - Cultural and Affective Polarization in a Multilevel-Multiparty System"
+title: "ARule of Images"
 authors: 
   - admin
-  - Marius Sältzer
-  - Christian Stecker
 date: "2022-12-01T00:00:00Z"
 doi: ""
 
