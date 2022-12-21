@@ -1,5 +1,5 @@
 ---
-title: "Rule of Images"
+title: "One picture says more than a thousand words: The use of images during the 2021 German Election Campaign"
 authors: 
   - admin
 date: "2022-12-01T00:00:00Z"
