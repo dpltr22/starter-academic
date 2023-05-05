@@ -32,7 +32,7 @@ feature:
     icon: linux
     icon_pack: fab
     name: Linux
-  - description: 10% Basics
+  - description: 40% Basics in Machine & Deep Learning
     icon: python
     icon_pack: fab
     name: Python
