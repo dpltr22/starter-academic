@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dylan.paltra@uzh.ch
+  email: dylan.paltra@gmail.com
   contact_links:
     - icon: twitter
       icon_pack: fab

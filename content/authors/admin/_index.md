@@ -10,23 +10,24 @@ last_name: Paltra
 superuser: true
 
 # Role/position/tagline
-role: Master Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Zurich
-    url: https://www.uzh.ch/
+  - name: Department of Government, University of Vienna
+    url: https://staatswissenschaft.univie.ac.at/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include political online behavior, political psychology, polarization, and methods of computational social science.
+bio: My research interests include political (online) behavior, political representation, political psychology, political polarization, and computational social science.
 
 # Interests to show in About widget
 interests:
   - Political Online Behavior
+  - Political Representation
   - Computational Social Science
   - Political Psychology
   - Political Communication
-  - Polarization
+  - Political Polarization
 
 # Education to show in About widget
 education:
@@ -75,7 +76,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello! My name is Dylan and I am currently a Masters Student at the University of Zurich in Switzerland. 
+Hello! My name is Dylan and I am an incoming PhD Student at the University of Vienna in Austria. I will be working in the ERC Project "MULTIREP" of Prof. Dr. Christopher Wratil 
 
 My research interests encompass political online behavior of general citizens as well as political elites. How do these individuals behave on social media platforms and how do they present themselves? What kind of information and content polarizes people? To understand these questions I study web-tracking data of citizens and everything political elites put out online.
 

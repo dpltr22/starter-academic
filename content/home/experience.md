@@ -29,7 +29,7 @@ experience:
     company_logo: ''
     location: Zurich
     date_start: '2022-02-01'
-    date_end: ''
+    date_end: '2023-06-30'
     description: |2-
         Responsibilities include:
         * Analyzing
