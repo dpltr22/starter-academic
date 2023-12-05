@@ -82,8 +82,5 @@ highlight_name: true
 
 Hello! My name is Dylan and I am a PhD Student at the University of Vienna in Austria. I am working in the ERC Project "MULTIREP" of Prof. Christopher Wratil, PhD.
 
-My research interests encompass political online behavior of general citizens as well as political elites. How do these individuals behave on social media platforms and how do they present themselves? What kind of information and content polarizes people? To understand these questions I study web-tracking data of citizens and everything political elites put out online.
+My research interests encompass political representation and how politcians in general make representative claims to citizens.
 
-My masters thesis is about how citizens perceive their own news media consumption online in comparison to the actual bias they encounter.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
