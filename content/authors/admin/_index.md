@@ -15,15 +15,15 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Department of Government, University of Vienna
-    url: https://staatswissenschaft.univie.ac.at/en/
+    url: https://staatswissenschaft.univie.ac.at/ueber-uns/wissenschaftliches-personal/dylan-paltra/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include political (online) behavior, political representation, political psychology, political polarization, and computational social science.
 
 # Interests to show in About widget
 interests:
-  - Political Online Behavior
   - Political Representation
+  - Political (Online) Behavior
   - Computational Social Science
   - Political Psychology
   - Political Communication
@@ -46,11 +46,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:paltra.dylan@gmx.de'
+    link: 'mailto:dylan.paltra@univie.ac.at'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/dpltr22
-    label: Follow me on Twitter
+    label: Follow me on X
     display:
       header: true
   - icon: mastodon
@@ -76,7 +76,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello! My name is Dylan and I am an incoming PhD Student at the University of Vienna in Austria. I will be working in the ERC Project "MULTIREP" of Prof. Dr. Christopher Wratil 
+Hello! My name is Dylan and I am a PhD Student at the University of Vienna in Austria. I am working in the ERC Project "MULTIREP" of Prof. Christopher Wratil, PhD.
 
 My research interests encompass political online behavior of general citizens as well as political elites. How do these individuals behave on social media platforms and how do they present themselves? What kind of information and content polarizes people? To understand these questions I study web-tracking data of citizens and everything political elites put out online.
 
