@@ -48,7 +48,6 @@ social:
     icon_pack: fas
     link: 'mailto:dylan.paltra@univie.ac.at'
   - icon: bluesky
-    icon_pack: fab
     link: https://bsky.app/profile/dpltr22.bsky.social
     label: Follow me on BlueSky
   - icon: twitter
