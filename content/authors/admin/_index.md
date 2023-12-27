@@ -48,18 +48,14 @@ social:
     icon_pack: fas
     link: 'mailto:dylan.paltra@univie.ac.at'
   - icon: cloud
-    icon_pack: hero
+    icon_pack: fas
     link: https://bsky.app/profile/dpltr22.bsky.social
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/dpltr22
-    label: Follow me on X
-    display:
-      header: true
   - icon: mastodon
     icon_pack: fab
     link: https://mastodon.social/@dpltr22
-    label: Follow me on Mastodon
   - icon: github
     icon_pack: fab
     link: https://github.com/dpltr22
