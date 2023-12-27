@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: PhD Student
+    company: ERC-Project Multirep @University of Vienna
+    company_url: ''
+    company_logo: ''
+    location: Vienna
+    date_start: '2023-10-01'
+    date_end: '2027-06-30'
+    description: |2-
+        Responsibilities include:
+        * Research on Political Representation
+        * Natural Language Processing
+        * Survey Methodology
   - title: Research Assistant
     company: DigiVox
     company_url: 'https://www.digivox.uzh.ch/de.html'
