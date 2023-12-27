@@ -50,7 +50,6 @@ social:
   - icon: cloud
     icon_pack: hero
     link: https://bsky.app/profile/dpltr22.bsky.social
-    label: Follow me on BlueSky
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/dpltr22
