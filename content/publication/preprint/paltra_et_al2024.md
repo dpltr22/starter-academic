@@ -2,10 +2,6 @@
 title: "The Citizens’ Concept of Representation: Evidence from an Open-Ended Questions Survey"
 authors: 
   - admin
-  - Bartolomeo Cappellina
-  - Christopher Wratil
-  - Simon Fernezelyi
-  - Lóránt Ó Hannracháin
 date: "2024-12-01T00:00:00Z"
 doi: ""
 
