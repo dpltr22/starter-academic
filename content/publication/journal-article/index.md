@@ -1,5 +1,5 @@
 ---
-title: "The Use of Tweets in Political News Coverage In- and Outside Election Campaigns: Examining Effects on Deliberative News Media Quality"
+title: "Social media posts as source for political news coverage inside and outside election campaigns: Examining effects on deliberative news media quality"
 authors:
 - Corinna Oschatz
 - Teresa Gil-Lopez
