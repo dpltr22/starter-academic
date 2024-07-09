@@ -1,5 +1,5 @@
 ---
-title: "Affective States - Cultural and Affective Polarization in a Multilevel-Multiparty System. \textit{Under Review}"
+title: "Affective States - Cultural and Affective Polarization in a Multilevel-Multiparty System. Under Review"
 authors: 
   - admin
   - Marius Sältzer
