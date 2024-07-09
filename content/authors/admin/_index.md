@@ -25,7 +25,6 @@ interests:
   - Political Representation
   - Political (Online) Behavior
   - Computational Social Science
-  - Political Psychology
   - Political Communication
   - Political Polarization
 
@@ -75,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello! My name is Dylan and I am a PhD Student at the University of Vienna in Austria. I am working in the ERC Project "MULTIREP" of Prof. Christopher Wratil, PhD.
+Hello! My name is Dylan and I am a PhD Student at the University of Vienna in Austria. I am working in the ERC Project "MULTIREP" of Assoz. Prof. Christopher Wratil, PhD.
 
-My research interests encompass political representation and how politcians in general make representative claims to citizens.
+My research interests encompass political representation and how politicians make representative claims to citizens. I am especially interested in using state-of-the-art NLP and computer vision approaches to measure these claims, combining them with advanced quantitative methods. I am focusing on two subdimensions of representation: personalization and surrogate representation.
 
