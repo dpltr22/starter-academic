@@ -3,7 +3,7 @@ title: "ocial media posts as source for political news coverage inside and outsi
 authors:
 - Corinna Oschatz
 - Teresa Gil-Lopez
-- Dylan Paltra
+- admin
 - Sebastian Stier
 - Tanjev Schultz
 @@ -19,7 +19,7 @@ publishDate: "2024-05-02T00:00:00Z"
