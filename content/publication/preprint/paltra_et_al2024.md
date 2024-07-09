@@ -1,6 +1,5 @@
 ---
-  title: "The Citizens’ Concept of Representation: Evidence from an
-Open-Ended Questions Survey"
+title: "The Citizens’ Concept of Representation: Evidence from an Open-Ended Questions Survey"
 authors:
 - admin
 - Bartolomeo Cappellina
@@ -32,7 +31,7 @@ tags:
 featured: false
 
 links:
-  url_pdf: ""
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
