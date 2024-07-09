@@ -16,23 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 80% Daily use
+  - description: Daily use
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 40% Basics and Remote Server Admin 
+  - description: Basics and Remote Server Admin 
     icon: database
     icon_pack: fas
     name: SQL
-  - description: 40% Basics
+  - description: Advanced use (JavaScript adaptations, experiments, etc.)
     icon: square-poll-vertical
     icon_pack: fas
     name: Qualtrics
-  - description: 10% Basics
+  - description: Basics
     icon: linux
     icon_pack: fab
     name: Linux
-  - description: 40% Basics in Machine & Deep Learning
+  - description: Basics in Machine & Deep Learning
     icon: python
     icon_pack: fab
     name: Python
