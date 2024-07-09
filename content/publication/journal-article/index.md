@@ -7,7 +7,7 @@ authors:
 - Sebastian Stier
 - Tanjev Schultz
 date: "2024-02-05T00:00:00Z"
-doi: "doi/10.1177/14648849241231698"
+doi: "https://doi.org/10.1177/14648849241231698"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-05T00:00:00Z"
