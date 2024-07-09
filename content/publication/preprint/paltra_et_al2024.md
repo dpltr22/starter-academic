@@ -2,7 +2,7 @@
   title: "The Citizens’ Concept of Representation: Evidence from an
 Open-Ended Questions Survey"
 authors:
-  - admin
+- admin
 - Bartolomeo Cappellina
 - Christopher Wratil
 - Simon Fernezelyi
