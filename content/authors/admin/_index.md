@@ -18,7 +18,7 @@ organizations:
     url: https://staatswissenschaft.univie.ac.at/ueber-uns/wissenschaftliches-personal/dylan-paltra/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include political (online) behavior, political representation, political psychology, political polarization, and computational social science.
+bio: My research interests include political (online) behavior, political representation, political polarization, and computational social science.
 
 # Interests to show in About widget
 interests:
