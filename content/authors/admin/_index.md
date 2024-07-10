@@ -58,6 +58,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/dpltr22
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+    
 
 
 # Link to a PDF of your resume/CV.
