@@ -18,14 +18,13 @@ organizations:
     url: https://staatswissenschaft.univie.ac.at/ueber-uns/wissenschaftliches-personal/dylan-paltra/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include political (online) behavior, political representation, political psychology, political polarization, and computational social science.
+bio: My research interests include political (online) behavior, political representation, political polarization, and computational social science.
 
 # Interests to show in About widget
 interests:
   - Political Representation
   - Political (Online) Behavior
   - Computational Social Science
-  - Political Psychology
   - Political Communication
   - Political Polarization
 
@@ -59,6 +58,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/dpltr22
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+    
 
 
 # Link to a PDF of your resume/CV.
@@ -75,7 +78,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello! My name is Dylan and I am a PhD Student at the University of Vienna in Austria. I am working in the ERC Project "MULTIREP" of Prof. Christopher Wratil, PhD.
+Hello! My name is Dylan and I am a PhD Student at the University of Vienna in Austria. I am working in the ERC Project "MULTIREP" of Assoz. Prof. Christopher Wratil, PhD.
 
-My research interests encompass political representation and how politcians in general make representative claims to citizens.
+My research interests encompass political representation and how politicians make representative claims to citizens. I am especially interested in using state-of-the-art NLP and computer vision approaches to measure these claims, combining them with advanced quantitative methods. I am focusing on two subdimensions of representation: personalization and surrogate representation.
 

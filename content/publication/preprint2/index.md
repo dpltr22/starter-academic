@@ -1,9 +1,11 @@
 ---
-title: "Affective States - Cultural and Affective Polarization in a Multilevel-Multiparty System. Under Review"
+title: "The Citizens' Concept of Representation: Evidence from an Open-Ended Questions Survey"
 authors: 
   - admin
-  - Marius Sältzer
-  - Christian Stecker
+  - Bartolomeo Cappellina
+  - Christopher Wratil
+  - Simon Fernezelyi
+  - Lóránt Ó Hannracháin
 date: "2024-12-01T00:00:00Z"
 doi: ""
 
